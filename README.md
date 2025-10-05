@@ -1,72 +1,3 @@
-ProfileMe.dev
-
-
-Introduction
-Skills
-Socials
-Badges
-Support
-Go home
-© 2025 Dan Cranney
-
-Follow me
-|
-Buy Me a Coffee
-Badges
-Add some badges and stats to your profile.
-
-
-Previous
-
-Next
-Style badges:
-
-
- 
-Title
-Edit
-
- 
-Text
-Edit
-
- 
-Icons
-Edit
-
- 
-Background
-Edit
-GitHub
-Stats Card
-Show:
-
-Stars
-Commits
-PRs
-Issues
-Contributions
-Private Commits
-Commit Streak
-Top Languages
-Top Repositories
-Follower Count
-X (Twitter)
-Please add your X profile in the socials section.
-
-Follower Count
-Twitch
-Please add your Twitch profile in the socials section.
-
-Streaming Status
-
-Previous
-
-Next
-Reorder Sections
-Preview
-Markdown
-Copy
 Hi 👋 My name is Bhavesh Patil
 ==============================
 
@@ -99,4 +30,3 @@ Backend | Java Developer
 
 <a href="http://www.github.com/BhaveshP956"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BhaveshP956&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-ProfileMe.dev | Create an amazing GitHub profile in minutes
